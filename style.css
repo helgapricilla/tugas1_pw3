@@ -1,0 +1,56 @@
+.navbar{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: medium;
+    font-weight: 700;
+}
+
+.jumbotron {
+    background-image: url(img/backgrounf.jpeg);
+    background-size: cover;
+    height: 650px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-bottom: 0%;
+}
+
+.jumbotron .display-4{
+    color: white;
+}
+.jumbotron h1{
+    font-size: xx-large;
+    color: #fff;
+}
+.jumbotron p{
+    color: white;
+    font-size: 15px;
+}
+.jumbotron .btn{
+    background-color: rgb(218, 87, 0);
+    border: none;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: medium;
+}
+
+.carousel-item{
+    width: 300;
+    height: 590px;
+}
+.carousel-item img{
+    margin-top: 0px;
+}
+
+#tentang{
+    height: 600px;
+    background-color: rgb(58, 83, 58);
+    padding-bottom: 420px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+#tentang .p{
+    text-align: left;
+}
+#contact{
+    font-family: 'Josefin Sans', sans-serif;
+}
